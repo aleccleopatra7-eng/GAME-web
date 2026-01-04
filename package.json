@@ -1,0 +1,17 @@
+{
+  "name": "3d-adventuring-game",
+  "version": "0.1.0",
+  "description": "Minimal 3D adventuring game using Three.js (open in modern browser).",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server --entry-file=index.html --port=8080"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.150.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
